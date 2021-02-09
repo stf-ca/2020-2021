@@ -2,7 +2,7 @@
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>Stefan Boudriau</strong></span></p>
 <p style="text-align: center;">This is a repository of code that has / will be created over 2020-2021 for safeguarding and portfolio purposes</p>
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><span style="text-decoration: underline;">Contents include:</span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;">Contents may include:</span></p>
 <p style="text-align: center;">APCSP-P Projects including:</p>
 <p style="text-align: center;">Python, basic node projects</p>
 <p style="text-align: center;">&nbsp;</p>
