@@ -1,6 +1,6 @@
 # 2020-2021
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>Stf</strong></span></p>
-<p style="text-align: center;">This is a repository of code that has / will be created over 2020-2021 for safeguarding and portfolio purposes</p>
+<p style="text-align: center;">This is a repository of some random code thatw as be created over 2020-2021 for safeguarding and portfolio purposes</p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><span style="text-decoration: underline;">Contents may include:</span></p>
 <p style="text-align: center;">APCSP-P Projects including:</p>
